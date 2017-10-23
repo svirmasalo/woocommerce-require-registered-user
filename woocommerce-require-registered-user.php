@@ -10,7 +10,7 @@
  * Developer: Sampo Virmasalo
  * Developer URI: https://svirmasalo.fi
  * Text Domain: woocommerce-rru
- * Domain Path: /languages
+ * Domain Path: /lang
  *
  * WC requires at least: 3.1.2
  * WC tested up to: 3.1.2
